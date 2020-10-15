@@ -8,6 +8,7 @@ public:
     int size, length;
 
     Arr() : size(0), length(0) {}
+    ~Arr() { delete []A; }
 
     void createArr()
     {
