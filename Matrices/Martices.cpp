@@ -1,12 +1,12 @@
 #include <iostream>
 using namespace std;
 
-void swap(int *i, int *j)
+void swap(int *a, int *b)
 {
     int t;
-    t = *i;
-    *i = *j;
-    *j = t;
+    t = *a;
+    *a = *b;
+    *b = t;
 }
 
 class Diagonal
