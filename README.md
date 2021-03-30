@@ -9,8 +9,13 @@
    * Linked Lists - A C++ program which creates and displays the linked list and illustrates various operations which can be performed on a linked Lists.
    * Circular Linked Lists - A C++ program which creates and displays a Circular linked list. In circular linked list, the last node points back to the first node and makes a circular loop
    * Doubly Linked Lists - A C++ program which creates and displays a Doubly linked list. In this, we can move in either direction of a node.
-3. Stack ADT:
-3. Queue ADT:
+4. Stack ADT:
+5. Queue ADT:
+6. Trees:
+7. Binary Search Trees:
+8. Heap:
+9. Sorting Techniques:
+10. Graphs:
 
 [![Mohammed Habeeb Ullah Tabrez's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/habeebullahtabrez)
 
